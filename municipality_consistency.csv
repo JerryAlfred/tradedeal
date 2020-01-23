@@ -1,0 +1,2312 @@
+,ID,Name
+0,-----,Group 0
+1,14069,Quitupan
+2,14076,San MartÃ­n de BolaÃ±os
+3,14034,Ejutla
+4,14031,ChimaltitÃ¡n
+5,14040,Hostotipaquillo
+6,14071,San CristÃ³bal de la Barranca
+7,18019,La Yesca
+8,14104,Totatiche
+9,14039,Guadalajara
+10,-----,Group 1
+11,18003,AmatlÃ¡n de CaÃ±as
+12,14095,TeuchitlÃ¡n
+13,16011,BriseÃ±as
+14,16060,NumarÃ¡n
+15,32011,Trinidad GarcÃ­a de la Cadena
+16,14002,AcatlÃ¡n de JuÃ¡rez
+17,16104,Villamar
+18,32028,Mezquital del Oro
+19,-----,Group 2
+20,32058,Santa MarÃ­a de la Paz
+21,14060,MexticacÃ¡n
+22,-----,Group 3
+23,15066,Otzoloapan
+24,16081,Susupuato
+25,12031,General Canuto A. Neri
+26,16099,Tuzantla
+27,09016,Miguel Hidalgo
+28,15008,Amatepec
+29,15004,Almoloya de Alquisiras
+30,12047,Pedro Ascencio Alquisiras
+31,16046,JuÃ¡rez
+32,15032,Donato Guerra
+33,15116,Zacazonapan
+34,15078,Santo TomÃ¡s
+35,16098,Tuxpan
+36,09014,Benito JuÃ¡rez
+37,15041,Ixtapan del Oro
+38,15077,San SimÃ³n de Guerrero
+39,-----,Group 4
+40,16080,Senguio
+41,16007,Aporo
+42,-----,Group 5
+43,28020,Mainero
+44,19026,Guadalupe
+45,19027,Los Herreras
+46,24006,Catorce
+47,24048,Villa de la Paz
+48,19039,Monterrey
+49,19003,Los Aldamas
+50,05030,Saltillo
+51,19029,Hualahuises
+52,19030,Iturbide
+53,32027,Melchor Ocampo
+54,24007,Cedral
+55,19023,General TreviÃ±o
+56,19035,Melchor Ocampo
+57,19043,Rayones
+58,24044,Vanegas
+59,-----,Group 6
+60,19050,Vallecillo
+61,05026,Progreso
+62,05008,Escobedo
+63,-----,Group 7
+64,19001,Abasolo
+65,05001,Abasolo
+66,32041,El Salvador
+67,19028,Higueras
+68,19016,Doctor GonzÃ¡lez
+69,05016,Lamadrid
+70,19037,Mina
+71,19042,Los Ramones
+72,-----,Group 8
+73,24028,San Luis PotosÃ­
+74,24017,GuadalcÃ¡zar
+75,24015,Charcas
+76,24030,San NicolÃ¡s Tolentino
+77,24009,Cerro de San Pedro
+78,32035,Noria de Ãngeles
+79,24002,Alaquines
+80,24004,Armadillo de los Infante
+81,-----,Group 9
+82,24047,Villa de Guadalupe
+83,24056,Villa de Arista
+84,24051,Villa Hidalgo
+85,24045,Venado
+86,24055,Zaragoza
+87,24035,Soledad de Graciano SÃ¡nchez
+88,-----,Group 10
+89,04008,Tenabo
+90,31040,Izamal
+91,31045,KopomÃ¡
+92,31062,Sacalum
+93,31001,AbalÃ¡
+94,31039,Ixil
+95,31028,Dzilam de Bravo
+96,31025,DzÃ¡n
+97,31052,Motul
+98,31086,TepakÃ¡n
+99,31026,Dzemul
+100,31031,Dzoncauich
+101,31094,Tixmehuac
+102,31075,Teabo
+103,31068,SinanchÃ©
+104,31005,BokobÃ¡
+105,31055,OpichÃ©n
+106,31095,TixpÃ©hual
+107,31087,Tetiz
+108,31074,Tahmek
+109,31048,MaxcanÃº
+110,31018,Chapab
+111,31020,Chicxulub Pueblo
+112,31034,HocabÃ¡
+113,31027,DzidzantÃºn
+114,31090,Timucuy
+115,31103,Xocchel
+116,31041,KanasÃ­n
+117,31071,Sudzal
+118,31064,Sanahcat
+119,31097,TunkÃ¡s
+120,31105,Yaxkukul
+121,31063,Samahil
+122,31059,Progreso
+123,31060,Quintana Roo
+124,31051,MocochÃ¡
+125,31093,Tixkokob
+126,31036,HomÃºn
+127,31024,Chumayel
+128,31029,Dzilam GonzÃ¡lez
+129,31009,Cansahcab
+130,31044,Kinchil
+131,31046,Mama
+132,31004,Baca
+133,31016,ChacsinkÃ­n
+134,31017,Chankom
+135,31013,Conkal
+136,31073,TahdziÃº
+137,31077,Tekal de Venegas
+138,31080,Tekit
+139,31049,MayapÃ¡n
+140,31066,Santa Elena
+141,31078,TekantÃ³
+142,31002,Acanceh
+143,31082,Telchac Pueblo
+144,31067,SeyÃ©
+145,31084,Temax
+146,04005,HecelchakÃ¡n
+147,31030,DzitÃ¡s
+148,31006,Buctzotz
+149,31072,Suma
+150,31015,CuzamÃ¡
+151,31038,HunucmÃ¡
+152,31088,Teya
+153,31037,HuhÃ­
+154,31069,Sotuta
+155,31007,CacalchÃ©n
+156,31083,Telchac Puerto
+157,31054,Muxupip
+158,31106,YobaÃ­n
+159,31012,Cenotillo
+160,31050,MÃ©rida
+161,31042,Kantunil
+162,31010,Cantamayec
+163,31035,HoctÃºn
+164,31023,ChocholÃ¡
+165,31100,UcÃº
+166,-----,Group 11
+167,11006,Atarjea
+168,22014,QuerÃ©taro
+169,13047,Pacula
+170,16040,Indaparapeo
+171,-----,Group 12
+172,15106,Toluca
+173,16027,ChucÃ¡ndiro
+174,13040,La MisiÃ³n
+175,16100,Tzintzuntzan
+176,-----,Group 13
+177,16005,Angangueo
+178,22011,El MarquÃ©s
+179,16072,QuerÃ©ndaro
+180,22018,TolimÃ¡n
+181,22008,Huimilpan
+182,16031,Epitacio Huerta
+183,24019,Lagunillas
+184,15071,PolotitlÃ¡n
+185,-----,Group 14
+186,11001,Abasolo
+187,11016,HuanÃ­maro
+188,16067,Penjamillo
+189,-----,Group 15
+190,01001,Aguascalientes
+191,32043,SusticacÃ¡n
+192,32012,Genaro Codina
+193,11020,LeÃ³n
+194,-----,Group 16
+195,14098,San Pedro Tlaquepaque
+196,14120,Zapopan
+197,-----,Group 17
+198,11013,Doctor Mora
+199,11036,Santiago MaravatÃ­o
+200,16041,Irimbo
+201,16093,Tlalpujahua
+202,11024,Pueblo Nuevo
+203,13084,ZimapÃ¡n
+204,-----,Group 18
+205,14070,El Salto
+206,14101,TonalÃ¡
+207,14045,IxtlahuacÃ¡n del RÃ­o
+208,14083,Tala
+209,14050,Jocotepec
+210,14097,Tlajomulco de ZÃºÃ±iga
+211,14005,AmatitÃ¡n
+212,14009,El Arenal
+213,14024,Cocula
+214,14077,San MartÃ­n Hidalgo
+215,14114,Villa Corona
+216,-----,Group 19
+217,32002,Apulco
+218,14081,Santa MarÃ­a de los Ãngeles
+219,-----,Group 20
+220,24032,Santa MarÃ­a del RÃ­o
+221,24050,Villa de Reyes
+222,-----,Group 21
+223,21198,XicotlÃ¡n
+224,21193,Tzicatlacoyan
+225,30022,Atzacan
+226,21093,Lafragua
+227,09007,Iztapalapa
+228,30140,San AndrÃ©s Tenejapan
+229,30147,Soledad Atzompa
+230,21033,Cohuecan
+231,09015,CuauhtÃ©moc
+232,21011,Albino Zertuche
+233,20022,Cosoltepec
+234,20340,San Pedro y San Pablo Tequixtepec
+235,21203,XochitlÃ¡n Todos Santos
+236,21032,Cohetzala
+237,21114,Puebla
+238,21146,Santa Catarina Tlaltempan
+239,21127,San JerÃ³nimo XayacatlÃ¡n
+240,21205,Yehualtepec
+241,-----,Group 22
+242,15080,Sultepec
+243,09002,Azcapotzalco
+244,09006,Iztacalco
+245,21047,Chiautla
+246,-----,Group 23
+247,15104,Tlalnepantla de Baz
+248,09005,Gustavo A. Madero
+249,15033,Ecatepec de Morelos
+250,21073,HuehuetlÃ¡n el Chico
+251,-----,Group 24
+252,20264,San Miguel Chicahua
+253,21059,Chinantla
+254,20332,San Pedro Topiltepec
+255,20552,Tlacotepec Plumas
+256,21135,San Miguel IxitlÃ¡n
+257,20019,ConcepciÃ³n PÃ¡palo
+258,20018,ConcepciÃ³n Buenavista
+259,21112,Petlalcingo
+260,20004,AsunciÃ³n Cuyotepeji
+261,20463,Santiago Huauclilla
+262,20478,Santiago Nacaltepec
+263,20290,San NicolÃ¡s Hidalgo
+264,20139,San Francisco Chapulapa
+265,20330,San Pedro Teutila
+266,20488,Santiago Tepetlapa
+267,20276,San Miguel Santa Flor
+268,20160,San JerÃ³nimo Silacayoapilla
+269,20352,San SimÃ³n ZahuatlÃ¡n
+270,20105,San Antonino Monte Verde
+271,20220,San Juan Tepeuxila
+272,30041,Coetzala
+273,20547,Teotongo
+274,20142,San Francisco HuehuetlÃ¡n
+275,20339,San Pedro y San Pablo Teposcolula
+276,20373,Santa Catarina Zapoquila
+277,20055,Mariscala de JuÃ¡rez
+278,20234,San Lucas ZoquiÃ¡pam
+279,20405,Villa de Chilapa de DÃ­az
+280,20464,Santiago IhuitlÃ¡n Plumas
+281,20455,Santiago Ayuquililla
+282,20283,San Miguel Tequixtepec
+283,21092,Juan N. MÃ©ndez
+284,21155,TecomatlÃ¡n
+285,21037,Coyotepec
+286,20182,San Juan Bautista Tlacoatzintepec
+287,20237,San Marcos Arteaga
+288,20027,ChiquihuitlÃ¡n de Benito JuÃ¡rez
+289,20093,San AndrÃ©s Lagunas
+290,20568,ZapotitlÃ¡n Palmas
+291,20558,Valerio Trujano
+292,20081,San AgustÃ­n Atenango
+293,21209,ZapotitlÃ¡n
+294,20400,Santa MarÃ­a CamotlÃ¡n
+295,20438,Santa MarÃ­a Tlalixtac
+296,21082,Ixcaquixtla
+297,21055,Chila
+298,20311,San Pedro Jaltepetongo
+299,21098,Molcaxac
+300,20121,San Bartolo Soyaltepec
+301,20187,San Juan CoatzÃ³spam
+302,20224,San Juan Yucuita
+303,20228,San Lorenzo Cuaunecuiltitla
+304,20355,Santa Ana CuauhtÃ©moc
+305,20423,Santa MarÃ­a Nduayaco
+306,20486,Villa TejÃºpam de la UniÃ³n
+307,20536,San Vicente NuÃ±Ãº
+308,20270,San Miguel Huautla
+309,20098,San AndrÃ©s TeotilÃ¡lpam
+310,20548,Tepelmeme Villa de Morelos
+311,20151,San Francisco Teopan
+312,20165,San JosÃ© Ayuquila
+313,20256,San Mateo Tlapiltepec
+314,20406,Santa MarÃ­a Chilchotla
+315,21056,Chila de la Sal
+316,20024,Cuyamecalco Villa de Zaragoza
+317,21157,Tehuitzingo
+318,20199,San Juan Ihualtepec
+319,20221,San Juan Teposcolula
+320,20549,"Heroica Villa TezoatlÃ¡n de Segura y Luna, Cuna de la Independencia de Oaxaca"
+321,20422,Santa MarÃ­a Nativitas
+322,20140,San Francisco ChindÃºa
+323,21066,Guadalupe
+324,20034,Guadalupe de RamÃ­rez
+325,20129,San CristÃ³bal Suchixtlahuaca
+326,20230,San Lorenzo Victoria
+327,20215,San Juan Sayultepec
+328,20484,Santiago Tamazola
+329,21031,Coatzingo
+330,20278,San Miguel Soyaltepec
+331,20404,Santa MarÃ­a ChachoÃ¡pam
+332,20520,Santo Domingo TonalÃ¡
+333,20521,Santo Domingo Tonaltepec
+334,21190,Totoltepec de Guerrero
+335,20304,San Pedro Coxcaltepec CÃ¡ntaros
+336,21141,San Pedro Yeloixtlahuaca
+337,20040,Huautepec
+338,21113,Piaxtla
+339,20287,San Miguel Tulancingo
+340,20431,Santa MarÃ­a Tecomavaca
+341,20354,Santa Ana Ateixtlahuaca
+342,20058,MazatlÃ¡n Villa de Flores
+343,20462,Santiago HuajolotitlÃ¡n
+344,20381,Santa Cruz Tacache de Mina
+345,20186,San Juan Cieneguilla
+346,20326,San Pedro SochiÃ¡pam
+347,21042,Cuayuca de Andrade
+348,20524,Santo Domingo Yodohino
+349,20206,San Juan de los CuÃ©s
+350,20250,San Mateo Etlatongo
+351,20436,Santa MarÃ­a TexcatitlÃ¡n
+352,30007,CamarÃ³n de Tejeda
+353,20529,Santos Reyes YucunÃ¡
+354,21027,Caltepec
+355,20395,Santa MarÃ­a Apazco
+356,20451,Santiago Apoala
+357,20396,Santa MarÃ­a la AsunciÃ³n
+358,20523,Santo Domingo YanhuitlÃ¡n
+359,20047,Santa Magdalena JicotlÃ¡n
+360,20317,San Pedro MÃ¡rtir Yucuxaco
+361,21024,Axutla
+362,20106,San Antonio Acutla
+363,20164,San Jorge Nuchita
+364,21147,Santa InÃ©s Ahuatempan
+365,20476,Santiago Miltepec
+366,30179,Tlacotepec de MejÃ­a
+367,20096,San AndrÃ©s Sinaxtla
+368,21139,San Pablo Anicano
+369,20499,Santiago YolomÃ©catl
+370,20313,San Pedro Jocotipac
+371,20556,La Trinidad Vista Hermosa
+372,20032,Fresnillo de Trujano
+373,20425,Santa MarÃ­a PÃ¡palo
+374,20245,San MartÃ­n Zacatepec
+375,20416,Santa MarÃ­a IxcatlÃ¡n
+376,20321,San Pedro Nopala
+377,20261,San Miguel AmatitlÃ¡n
+378,20116,San BartolomÃ© Ayautla
+379,30110,Mixtla de Altamirano
+380,20479,Santiago Nejapilla
+381,20181,San Juan Bautista Suchitepec
+382,21018,Atexcal
+383,20518,Santo Domingo TlatayÃ¡pam
+384,20176,San Juan Bautista Coixtlahuaca
+385,20527,Santos Reyes PÃ¡palo
+386,20341,San Pedro Yucunama
+387,20493,Santiago Tillo
+388,-----,Group 25
+389,21196,XayacatlÃ¡n de Bravo
+390,20545,TeotitlÃ¡n de Flores MagÃ³n
+391,21003,AcatlÃ¡n
+392,21206,Zacapala
+393,20540,Villa de TamazulÃ¡pam del Progreso
+394,21169,Tepexi de RodrÃ­guez
+395,20244,San MartÃ­n Toxpalan
+396,20089,San AndrÃ©s Dinicuiti
+397,20346,San SebastiÃ¡n Nicananduta
+398,20309,San Pedro IxcatlÃ¡n
+399,21191,Tulcingo
+400,20456,Santiago Cacaloxtepec
+401,21009,Ahuehuetitla
+402,21046,Chapulco
+403,20459,Santiago Chazumba
+404,20039,Heroica Ciudad de Huajuapan de LeÃ³n
+405,20134,San Felipe Jalapa de DÃ­az
+406,-----,Group 26
+407,21182,Tlanepantla
+408,21189,Tochtepec
+409,21171,Tepeyahualco de CuauhtÃ©moc
+410,21118,Los Reyes de JuÃ¡rez
+411,21079,Huitziltepec
+412,21151,Santo TomÃ¡s Hueyotlipan
+413,21038,Cuapiaxtla de Madero
+414,21020,Atoyatempan
+415,21052,ChigmecatitlÃ¡n
+416,-----,Group 27
+417,26030,Hermosillo
+418,26056,San Miguel de Horcasitas
+419,26014,BaviÃ¡cora
+420,26021,La Colorada
+421,26045,Opodepe
+422,26054,San Javier
+423,26053,San Felipe de JesÃºs
+424,26001,Aconchi
+425,26020,CarbÃ³
+426,26062,Suaqui Grande
+427,26050,RayÃ³n
+428,26022,Cucurpe
+429,26061,Soyopa
+430,26013,BanÃ¡michi
+431,26034,HuÃ©pac
+432,26038,Moctezuma
+433,26068,Villa Pesqueira
+434,26047,Pitiquito
+435,26064,Trincheras
+436,-----,Group 28
+437,26005,Arivechi
+438,26044,Onavas
+439,26009,Bacanora
+440,26051,Rosario
+441,-----,Group 29
+442,26057,San Pedro de la Cueva
+443,26069,YÃ©cora
+444,-----,Group 30
+445,10031,Santa Clara
+446,10013,MapimÃ­
+447,10028,San Juan del RÃ­o
+448,05035,TorreÃ³n
+449,10021,PeÃ±Ã³n Blanco
+450,10006,General SimÃ³n BolÃ­var
+451,05036,Viesca
+452,10012,Lerdo
+453,05017,Matamoros
+454,10030,San Pedro del Gallo
+455,05009,Francisco I. Madero
+456,10007,GÃ³mez Palacio
+457,10029,San Luis del Cordero
+458,10036,Tlahualilo
+459,-----,Group 31
+460,08055,Rosales
+461,08016,La Cruz
+462,08045,Meoqui
+463,08018,Cusihuiriachi
+464,08057,San Francisco de Borja
+465,08067,Valle de Zaragoza
+466,08006,BachÃ­niva
+467,08002,Aldama
+468,08043,MatachÃ­
+469,08015,Coyame del Sotol
+470,08051,Ocampo
+471,08034,Ignacio Zaragoza
+472,08009,Bocoyna
+473,08062,Saucillo
+474,08063,TemÃ³sachic
+475,08032,Hidalgo del Parral
+476,08048,Namiquipa
+477,08017,CuauhtÃ©moc
+478,08025,GÃ³mez FarÃ­as
+479,08003,Allende
+480,08011,Camargo
+481,08019,Chihuahua
+482,08026,Gran Morelos
+483,08004,Aquiles SerdÃ¡n
+484,08049,Nonoava
+485,08024,Santa Isabel
+486,08058,San Francisco de Conchos
+487,08052,Ojinaga
+488,08031,Guerrero
+489,08061,SatevÃ³
+490,08010,Buenaventura
+491,08054,Riva Palacio
+492,08038,Julimes
+493,08022,Dr. Belisario DomÃ­nguez
+494,08040,Madera
+495,08021,Delicias
+496,08041,Maguarichi
+497,08012,CarichÃ­
+498,-----,Group 32
+499,07101,Tuxtla GutiÃ©rrez
+500,07122,El Parral
+501,07124,Mezcalapa
+502,07123,Emiliano Zapata
+503,07088,Sunuapa
+504,07058,NicolÃ¡s RuÃ­z
+505,07067,Pantepec
+506,07121,RincÃ³n Chamula San Pedro
+507,07045,Ixtapangajoya
+508,07118,San AndrÃ©s Duraznal
+509,07033,Francisco LeÃ³n
+510,-----,Group 33
+511,16034,Hidalgo
+512,16107,Zacapu
+513,16013,CarÃ¡cuaro
+514,16022,Charo
+515,16101,Tzitzio
+516,16092,Tiquicheo de NicolÃ¡s Romero
+517,16071,PuruÃ¡ndiro
+518,11017,Irapuato
+519,16102,Uruapan
+520,16083,TancÃ­taro
+521,16065,Paracho
+522,11027,Salamanca
+523,16053,Morelia
+524,11003,San Miguel de Allende
+525,11015,Guanajuato
+526,16077,San Lucas
+527,16068,PeribÃ¡n
+528,16087,Taretan
+529,15123,Luvianos
+530,16108,Zamora
+531,16073,Quiroga
+532,15110,Valle de Bravo
+533,16079,Salvador Escalante
+534,16039,Huiramba
+535,11021,MoroleÃ³n
+536,16066,PÃ¡tzcuaro
+537,16038,Huetamo
+538,16021,Charapan
+539,22016,San Juan del RÃ­o
+540,16001,Acuitzio
+541,12027,Cutzamala de PinzÃ³n
+542,14049,JilotlÃ¡n de los Dolores
+543,16016,Coeneo
+544,16088,TarÃ­mbaro
+545,16036,Huandacareo
+546,16111,Ziracuaretiro
+547,16090,Tingambato
+548,16032,ErongarÃ­cuaro
+549,16049,Madero
+550,16047,Jungapeo
+551,16024,CherÃ¡n
+552,16097,Turicato
+553,16044,JimÃ©nez
+554,16048,Lagunillas
+555,16082,TacÃ¡mbaro
+556,11007,Celaya
+557,16059,Nuevo Urecho
+558,16109,ZinÃ¡paro
+559,16018,CopÃ¡ndaro
+560,16037,Huaniqueo
+561,16054,Morelos
+562,16056,Nahuatzen
+563,16009,Ario
+564,16112,ZitÃ¡cuaro
+565,16058,Nuevo Parangaricutiro
+566,16057,NocupÃ©taro
+567,-----,Group 34
+568,15085,Temascalcingo
+569,11018,Jaral del Progreso
+570,16017,Contepec
+571,13029,Huichapan
+572,13059,Tecozautla
+573,16078,Santa Ana Maya
+574,11010,Coroneo
+575,22005,ColÃ³n
+576,11002,AcÃ¡mbaro
+577,11038,Tarandacuao
+578,11042,Valle de Santiago
+579,11019,JerÃ©cuaro
+580,11005,Apaseo el Grande
+581,11032,San JosÃ© Iturbide
+582,11028,Salvatierra
+583,11004,Apaseo el Alto
+584,11011,Cortazar
+585,22007,Ezequiel Montes
+586,22012,Pedro Escobedo
+587,11035,Santa Cruz de Juventino Rosas
+588,16050,MaravatÃ­o
+589,11039,Tarimoro
+590,16110,ZinapÃ©cuaro
+591,22001,Amealco de Bonfil
+592,11041,Uriangato
+593,22006,Corregidora
+594,11044,VillagrÃ¡n
+595,11014,Dolores Hidalgo Cuna de la Independencia Nacional
+596,16020,Cuitzeo
+597,11009,Comonfort
+598,11040,Tierra Blanca
+599,22017,Tequisquiapan
+600,11046,Yuriria
+601,22004,Cadereyta de Montes
+602,16003,Ãlvaro ObregÃ³n
+603,-----,Group 35
+604,16070,PurÃ©pero
+605,16086,Tanhuato
+606,16045,Jiquilpan
+607,16062,PajacuarÃ¡n
+608,14123,ZapotlÃ¡n del Rey
+609,11023,PÃ©njamo
+610,16043,Jacona
+611,16094,Tlazazalca
+612,14016,AyotlÃ¡n
+613,16030,Ecuandureo
+614,16103,Venustiano Carranza
+615,16074,CojumatlÃ¡n de RÃ©gules
+616,14044,IxtlahuacÃ¡n de los Membrillos
+617,14066,PoncitlÃ¡n
+618,14063,OcotlÃ¡n
+619,16106,YurÃ©cuaro
+620,14096,TizapÃ¡n el Alto
+621,16028,Churintzio
+622,11012,CuerÃ¡maro
+623,16023,Chavinda
+624,16105,Vista Hermosa
+625,14033,Degollado
+626,16085,TangancÃ­cuaro
+627,16075,Los Reyes
+628,16084,Tangamandapio
+629,14030,Chapala
+630,16091,TingÃ¼indÃ­n
+631,16076,Sahuayo
+632,14013,Atotonilco el Alto
+633,14047,Jamay
+634,14051,JuanacatlÃ¡n
+635,14124,Zapotlanejo
+636,16069,La Piedad
+637,16025,Chilchota
+638,14018,La Barca
+639,16113,JosÃ© Sixto Verduzco
+640,16042,IxtlÃ¡n
+641,14105,TototlÃ¡n
+642,16063,PanindÃ­cuaro
+643,16004,Angamacutiro
+644,-----,Group 36
+645,11029,San Diego de la UniÃ³n
+646,11033,San Luis de la Paz
+647,-----,Group 37
+648,08028,Guadalupe
+649,08037,JuÃ¡rez
+650,08050,Nuevo Casas Grandes
+651,08053,Praxedis G. Guerrero
+652,08001,Ahumada
+653,08005,AscensiÃ³n
+654,-----,Group 38
+655,02003,Tecate
+656,02001,Ensenada
+657,02005,Playas de Rosarito
+658,26048,Puerto PeÃ±asco
+659,26055,San Luis RÃ­o Colorado
+660,02002,Mexicali
+661,-----,Group 39
+662,07016,CatazajÃ¡
+663,27009,Jalapa
+664,27004,Centro
+665,27003,Centla
+666,07050,La Libertad
+667,-----,Group 40
+668,30166,TepetlÃ¡n
+669,30097,Lerdo de Tejada
+670,30168,Tequila
+671,30011,Alvarado
+672,30182,Tlalnelhuayocan
+673,20169,San JosÃ© Independencia
+674,30136,Rafael Lucio
+675,30023,Atzalan
+676,21120,San Antonio CaÃ±ada
+677,21179,Tlachichuca
+678,30100,Manlio Fabio Altamirano
+679,30135,Rafael Delgado
+680,21023,Atzitzintla
+681,20109,San Antonio NanahuatÃ­pam
+682,30195,Xoxocotla
+683,30101,Mariano Escobedo
+684,30031,Carrillo Puerto
+685,30114,Nautla
+686,30020,Atlahuilco
+687,30188,Totutla
+688,30163,TenochtitlÃ¡n
+689,30018,Aquila
+690,30001,Acajete
+691,21036,Coyomeapan
+692,30098,Magdalena
+693,20171,San JosÃ© Tenango
+694,30137,Los Reyes
+695,21067,Guadalupe Victoria
+696,21044,Cuyoaco
+697,30010,Altotonga
+698,30028,Boca del RÃ­o
+699,30057,Chiconquiaco
+700,30025,Ayahualulco
+701,30197,Yecuatla
+702,21058,Chilchotla
+703,30004,Actopan
+704,30107,Las Minas
+705,30127,La Perla
+706,30162,Tenampa
+707,21065,General Felipe Ãngeles
+708,30005,Acula
+709,30049,Cotaxtla
+710,21174,TeziutlÃ¡n
+711,30006,Acultzingo
+712,21199,Xiutetelco
+713,30113,Naranjal
+714,30187,TonayÃ¡n
+715,20322,San Pedro Ocopetatillo
+716,30075,Ignacio de la Llave
+717,30126,Paso de Ovejas
+718,30087,Xalapa
+719,30084,Ixmatlahuacan
+720,21137,San NicolÃ¡s Buenos Aires
+721,21017,Atempan
+722,21103,NicolÃ¡s Bravo
+723,30088,Jalcomulco
+724,30178,Tlacotalpan
+725,21050,Chichiquila
+726,30200,Zentla
+727,20249,San Mateo YoloxochitlÃ¡n
+728,30043,Comapa
+729,30159,Tehuipango
+730,30196,Yanga
+731,30093,Jilotepec
+732,21054,Chignautla
+733,30156,Tatatila
+734,20163,San JerÃ³nimo TecÃ³atl
+735,30008,AlpatlÃ¡huac
+736,30192,Vega de Alatorre
+737,30165,Tepatlaxco
+738,30024,Tlaltetela
+739,21116,QuimixtlÃ¡n
+740,30185,Tlilapan
+741,30090,Jamapa
+742,30134,Puente Nacional
+743,30099,Maltrata
+744,21173,Teteles de Avila Castillo
+745,30081,Ixhuatlancillo
+746,21195,Vicente Guerrero
+747,30139,Saltabarranca
+748,30132,Las Vigas de RamÃ­rez
+749,30193,Veracruz
+750,30036,Coacoatzintla
+751,30014,AmatlÃ¡n de los Reyes
+752,30042,Colipa
+753,30146,Sochiapa
+754,21130,San Juan Atenco
+755,21108,Oriental
+756,30086,Jalacingo
+757,21145,San SebastiÃ¡n Tlacotepec
+758,30052,Cuichapa
+759,30009,Alto Lucero de GutiÃ©rrez Barrios
+760,30105,MedellÃ­n de Bravo
+761,30074,Huiloapan de CuauhtÃ©moc
+762,20374,Santa Cruz Acatepec
+763,21200,Xochiapulco
+764,30062,ChocamÃ¡n
+765,20434,Santa MarÃ­a Teopoxco
+766,30029,Calcahualco
+767,30109,Misantla
+768,30184,Tlaquilpa
+769,21061,EloxochitlÃ¡n
+770,30012,AmatitlÃ¡n
+771,20002,AcatlÃ¡n de PÃ©rez Figueroa
+772,30207,Tres Valles
+773,30191,Ursulo GalvÃ¡n
+774,30019,Astacinga
+775,30171,TexhuacÃ¡n
+776,21012,Aljojuca
+777,21170,Tepeyahualco
+778,20490,Santiago Texcalcingo
+779,30177,Tlacolulan
+780,30194,Villa Aldama
+781,30095,Juchique de Ferrer
+782,30096,Landero y Coss
+783,20029,EloxochitlÃ¡n de Flores MagÃ³n
+784,-----,Group 41
+785,30085,IxtaczoquitlÃ¡n
+786,30026,Banderilla
+787,21177,Tlacotepec de Benito JuÃ¡rez
+788,30164,Teocelo
+789,21094,Libres
+790,20021,Cosolapa
+791,21004,Acatzingo
+792,21035,CoxcatlÃ¡n
+793,30065,Emiliano Zapata
+794,21013,Altepexi
+795,30080,IxhuatlÃ¡n del CafÃ©
+796,30115,Nogales
+797,30092,Xico
+798,30148,Soledad de Doblado
+799,21156,TehuacÃ¡n
+800,30030,Camerino Z. Mendoza
+801,21129,San JosÃ© MiahuatlÃ¡n
+802,30186,TomatlÃ¡n
+803,21115,Quecholac
+804,30038,Coatepec
+805,30016,La Antigua
+806,21099,CaÃ±ada Morelos
+807,30021,Atoyac
+808,30174,Tierra Blanca
+809,30138,RÃ­o Blanco
+810,30047,Coscomatepec
+811,21142,San Salvador el Seco
+812,21063,Esperanza
+813,30068,FortÃ­n
+814,30002,AcatlÃ¡n
+815,30053,CuitlÃ¡huac
+816,21149,Santiago MiahuatlÃ¡n
+817,30173,Tezonapa
+818,30117,Omealca
+819,21124,San Gabriel Chilac
+820,30128,Perote
+821,20041,Huautla de JimÃ©nez
+822,21110,Palmar de Bravo
+823,30046,CosautlÃ¡n de Carvajal
+824,30181,Tlalixcoyan
+825,30044,CÃ³rdoba
+826,21096,Mazapiltepec de JuÃ¡rez
+827,21217,ZoquitlÃ¡n
+828,21214,Zinacatepec
+829,30125,Paso del Macho
+830,29007,El Carmen Tequexquitla
+831,30106,MiahuatlÃ¡n
+832,21045,Chalchicomula de Sesma
+833,30118,Orizaba
+834,21010,Ajalpan
+835,30079,IxhuacÃ¡n de los Reyes
+836,30201,Zongolica
+837,30071,Huatusco
+838,21161,Tepanco de LÃ³pez
+839,21154,Tecamachalco
+840,30017,Apazapan
+841,30112,Naolinco
+842,-----,Group 42
+843,21128,San JosÃ© Chiapa
+844,21144,San Salvador Huixcolotla
+845,21152,Soltepec
+846,-----,Group 43
+847,25005,CosalÃ¡
+848,10037,Topia
+849,08046,Morelos
+850,10026,San Dimas
+851,08029,Guadalupe y Calvo
+852,18005,Huajicori
+853,25006,CuliacÃ¡n
+854,10035,Tepehuanes
+855,10002,Canelas
+856,25017,Sinaloa
+857,10019,OtÃ¡ez
+858,18016,Tecuala
+859,25008,Elota
+860,10034,Tamazula
+861,25012,MazatlÃ¡n
+862,-----,Group 44
+863,28015,Gustavo DÃ­az Ordaz
+864,28040,Valle Hermoso
+865,19040,ParÃ¡s
+866,19013,China
+867,28022,Matamoros
+868,28033,RÃ­o Bravo
+869,19015,Doctor Coss
+870,28025,Miguel AlemÃ¡n
+871,19022,General TerÃ¡n
+872,28005,Burgos
+873,28036,San NicolÃ¡s
+874,28035,San Fernando
+875,28023,MÃ©ndez
+876,28007,Camargo
+877,28032,Reynosa
+878,19020,General Bravo
+879,-----,Group 45
+880,08030,Guazapares
+881,08047,Moris
+882,08020,ChÃ­nipas
+883,26066,Ures
+884,26003,Alamos
+885,25010,El Fuerte
+886,26026,Etchojoa
+887,08065,Urique
+888,26037,MazatÃ¡n
+889,26072,San Ignacio RÃ­o Muerto
+890,26071,Benito JuÃ¡rez
+891,26018,Cajeme
+892,08066,Uruachi
+893,25007,Choix
+894,-----,Group 46
+895,26052,Sahuaripa
+896,26029,Guaymas
+897,26025,Empalme
+898,-----,Group 47
+899,10032,Santiago Papasquiaro
+900,10008,Guadalupe Victoria
+901,10023,Pueblo Nuevo
+902,25014,Rosario
+903,25004,Concordia
+904,10001,CanatlÃ¡n
+905,10005,Durango
+906,25009,Escuinapa
+907,10015,Nazas
+908,18001,Acaponeta
+909,32021,JimÃ©nez del Teul
+910,10018,El Oro
+911,10024,Rodeo
+912,10039,Nuevo Ideal
+913,25016,San Ignacio
+914,10020,PÃ¡nuco de Coronado
+915,10003,Coneto de Comonfort
+916,10004,CuencamÃ©
+917,-----,Group 48
+918,30143,Santiago Tuxtla
+919,20525,Santo Domingo Zanatepec
+920,30032,Catemaco
+921,27008,Huimanguillo
+922,30077,Isla
+923,30039,Coatzacoalcos
+924,30082,IxhuatlÃ¡n del Sureste
+925,30141,San AndrÃ©s Tuxtla
+926,20407,Santa MarÃ­a Chimalapa
+927,30104,Mecayapan
+928,20057,MatÃ­as Romero AvendaÃ±o
+929,20190,San Juan CotzocÃ³n
+930,20198,San Juan Guichicovi
+931,30070,HidalgotitlÃ¡n
+932,30089,JÃ¡ltipan
+933,30144,Sayula de AlemÃ¡n
+934,30145,Soconusco
+935,30149,Soteapan
+936,30059,Chinameca
+937,30073,Hueyapan de Ocampo
+938,30048,Cosoleacaque
+939,30204,Agua Dulce
+940,20207,San Juan MazatlÃ¡n
+941,30091,JesÃºs Carranza
+942,30120,Oteapan
+943,07074,Reforma
+944,30003,Acayucan
+945,30116,Oluta
+946,30169,JosÃ© Azueta
+947,30210,Uxpanapa
+948,30206,Nanchital de LÃ¡zaro CÃ¡rdenas del RÃ­o
+949,20265,San Miguel Chimalapa
+950,30094,Juan RodrÃ­guez Clara
+951,30209,Tatahuicapan de JuÃ¡rez
+952,20498,Santiago Yaveo
+953,30172,Texistepec
+954,30122,Pajapan
+955,20005,AsunciÃ³n Ixtaltepec
+956,30130,Playa Vicente
+957,27005,Comalcalco
+958,30142,San Juan Evangelista
+959,30212,Santiago Sochiapan
+960,30111,MoloacÃ¡n
+961,27002,CÃ¡rdenas
+962,30108,MinatitlÃ¡n
+963,30015,Angel R. Cabada
+964,30199,Zaragoza
+965,-----,Group 49
+966,18008,Xalisco
+967,18012,San Blas
+968,14067,Puerto Vallarta
+969,18015,Santiago Ixcuintla
+970,14058,Mascota
+971,14084,Talpa de Allende
+972,18009,Del Nayar
+973,18010,Rosamorada
+974,14020,Cabo Corrientes
+975,18020,BahÃ­a de Banderas
+976,18011,RuÃ­z
+977,18018,Tuxpan
+978,18017,Tepic
+979,14080,San SebastiÃ¡n del Oeste
+980,18013,San Pedro Lagunillas
+981,18004,Compostela
+982,-----,Group 50
+983,14007,San Juanito de Escobedo
+984,14003,Ahualulco de Mercado
+985,32004,Benito JuÃ¡rez
+986,18006,IxtlÃ¡n del RÃ­o
+987,18002,AhuacatlÃ¡n
+988,14019,BolaÃ±os
+989,14055,Magdalena
+990,14036,EtzatlÃ¡n
+991,14094,Tequila
+992,14075,San Marcos
+993,18007,Jala
+994,14006,Ameca
+995,14038,Guachinango
+996,18014,Santa MarÃ­a del Oro
+997,14062,MixtlÃ¡n
+998,-----,Group 51
+999,31061,RÃ­o Lagartos
+1000,31022,Chikindzonot
+1001,31099,Uayma
+1002,23001,Cozumel
+1003,23009,Tulum
+1004,31021,ChichimilÃ¡
+1005,31043,Kaua
+1006,31081,Tekom
+1007,23003,Isla Mujeres
+1008,31065,San Felipe
+1009,31008,Calotmul
+1010,31102,Valladolid
+1011,31085,TemozÃ³n
+1012,31019,Chemax
+1013,31057,PanabÃ¡
+1014,31091,Tinum
+1015,23005,Benito JuÃ¡rez
+1016,23008,Solidaridad
+1017,31014,Cuncunul
+1018,31096,TizimÃ­n
+1019,23011,Puerto Morelos
+1020,31032,Espita
+1021,31104,YaxcabÃ¡
+1022,31070,SucilÃ¡
+1023,31092,Tixcacalcupul
+1024,23007,LÃ¡zaro CÃ¡rdenas
+1025,-----,Group 52
+1026,27001,BalancÃ¡n
+1027,04011,Candelaria
+1028,27013,Nacajuca
+1029,27017,Tenosique
+1030,31076,Tecoh
+1031,27006,CunduacÃ¡n
+1032,04002,Campeche
+1033,31047,ManÃ­
+1034,07085,SoyalÃ³
+1035,27012,Macuspana
+1036,04001,CalkinÃ­
+1037,04009,EscÃ¡rcega
+1038,07063,Osumacinta
+1039,31089,Ticul
+1040,27010,Jalpa de MÃ©ndez
+1041,31056,Oxkutzcab
+1042,30061,Las Choapas
+1043,27007,Emiliano Zapata
+1044,31003,Akil
+1045,27011,Jonuta
+1046,31033,HalachÃ³
+1047,04004,ChampotÃ³n
+1048,31053,Muna
+1049,31011,CelestÃºn
+1050,27014,ParaÃ­so
+1051,04007,Palizada
+1052,31101,UmÃ¡n
+1053,07065,Palenque
+1054,04003,Carmen
+1055,-----,Group 53
+1056,26012,BÃ¡cum
+1057,25013,Mocorito
+1058,25002,Angostura
+1059,25015,Salvador Alvarado
+1060,26042,Navojoa
+1061,25001,Ahome
+1062,25011,Guasave
+1063,26033,Huatabampo
+1064,25018,Navolato
+1065,25003,Badiraguato
+1066,26049,Quiriego
+1067,-----,Group 54
+1068,12043,MetlatÃ³noc
+1069,12044,MochitlÃ¡n
+1070,12009,Atlamajalcingo del Monte
+1071,12011,Atoyac de Ãlvarez
+1072,12076,Acatepec
+1073,12077,Marquelia
+1074,12032,General Heliodoro Castillo
+1075,12021,Coyuca de BenÃ­tez
+1076,12064,Tlalchapa
+1077,12052,San Luis AcatlÃ¡n
+1078,12040,Leonardo Bravo
+1079,20259,San Miguel AhuehuetitlÃ¡n
+1080,12054,San Miguel Totolapan
+1081,12070,XochihuehuetlÃ¡n
+1082,12006,Apaxtla
+1083,15105,Tlatlaya
+1084,20251,San Mateo NejÃ¡pam
+1085,12033,HuamuxtitlÃ¡n
+1086,12029,Chilpancingo de los Bravo
+1087,12035,Iguala de la Independencia
+1088,12015,Buenavista de CuÃ©llar
+1089,12042,MÃ¡rtir de Cuilapan
+1090,12056,Tecoanapa
+1091,12001,Acapulco de JuÃ¡rez
+1092,20099,San AndrÃ©s Tepetlapa
+1093,12067,Tlapehuala
+1094,12017,Cocula
+1095,12074,Zitlala
+1096,12012,Ayutla de los Libres
+1097,12026,Cuetzala del Progreso
+1098,20183,San Juan Bautista Tlachichilco
+1099,12007,Arcelia
+1100,21081,Ixcamilpa de Guerrero
+1101,12028,Chilapa de Ãlvarez
+1102,12081,Iliatenco
+1103,21087,Jolalpan
+1104,12018,Copala
+1105,12069,XalpatlÃ¡huac
+1106,12036,Igualapa
+1107,12050,Pungarabato
+1108,12002,Ahuacuotzingo
+1109,15117,Zacualpan
+1110,12014,Benito JuÃ¡rez
+1111,12037,Ixcateopan de CuauhtÃ©moc
+1112,12023,Cuajinicuilapa
+1113,12005,Alpoyeca
+1114,12041,Malinaltepec
+1115,12025,Cuautepec
+1116,12066,Tlapa de Comonfort
+1117,12072,ZapotitlÃ¡n Tablas
+1118,12079,JosÃ© JoaquÃ­n de Herrera
+1119,12061,Tixtla de Guerrero
+1120,12080,JuchitÃ¡n
+1121,12004,Alcozauca de Guerrero
+1122,12051,Quechultenango
+1123,12053,San Marcos
+1124,12065,Tlalixtaquilla de Maldonado
+1125,12060,Tetipac
+1126,12057,TÃ©cpan de Galeana
+1127,12010,Atlixtac
+1128,12075,Eduardo Neri
+1129,12059,Tepecoacuilco de Trujano
+1130,12020,Copanatoyac
+1131,12058,Teloloapan
+1132,20567,ZapotitlÃ¡n Lagunas
+1133,12003,AjuchitlÃ¡n del Progreso
+1134,12063,Tlacoapa
+1135,12024,CualÃ¡c
+1136,12034,Huitzuco de los Figueroa
+1137,12039,Juan R. Escudero
+1138,12045,OlinalÃ¡
+1139,12019,Copalillo
+1140,12055,Taxco de AlarcÃ³n
+1141,12078,Cochoapa el Grande
+1142,12030,Florencio Villarreal
+1143,12013,AzoyÃº
+1144,-----,Group 55
+1145,03001,ComondÃº
+1146,03008,Los Cabos
+1147,03003,La Paz
+1148,-----,Group 56
+1149,20517,Santo Domingo Tepuxtepec
+1150,20107,San Antonio de la Cal
+1151,20147,San Francisco NuxaÃ±o
+1152,20084,San AgustÃ­n Etla
+1153,20196,San Juan Evangelista Analco
+1154,20458,Santiago Comaltepec
+1155,20289,San NicolÃ¡s
+1156,20218,San Juan Teita
+1157,20483,Santiago Suchilquitongo
+1158,20216,San Juan TabaÃ¡
+1159,20241,San MartÃ­n LachilÃ¡
+1160,20051,Magdalena Teitipac
+1161,20442,Santa MarÃ­a Yalina
+1162,20049,Magdalena OcotlÃ¡n
+1163,20471,Santiago Lalopa
+1164,20562,Magdalena Yodocono de Porfirio DÃ­az
+1165,20342,San Raymundo Jalpan
+1166,20555,Trinidad Zaachila
+1167,20403,Santa MarÃ­a Coyotepec
+1168,20257,San Melchor Betaza
+1169,20294,San Pablo Huitzo
+1170,20013,CiÃ©nega de ZimatlÃ¡n
+1171,20331,San Pedro TidaÃ¡
+1172,20299,San Pablo Yaganiza
+1173,20328,San Pedro Taviche
+1174,20519,Santo Domingo Tomaltepec
+1175,20387,Santa Gertrudis
+1176,20429,Santa MarÃ­a Sola
+1177,20144,San Francisco Jaltepetongo
+1178,20192,San Juan Chilateca
+1179,20262,San Miguel AmatlÃ¡n
+1180,20544,Teococuilco de Marcos PÃ©rez
+1181,20128,San CristÃ³bal Lachirioag
+1182,20494,Santiago Tlazoyaltepec
+1183,20288,San Miguel Yotao
+1184,20385,Santa Cruz XoxocotlÃ¡n
+1185,20174,Ãnimas Trujano
+1186,20363,Santa Catarina Ixtepeji
+1187,20378,Santa Cruz Mixtepec
+1188,20560,Villa DÃ­az Ordaz
+1189,20293,San Pablo Etla
+1190,20375,Santa Cruz Amilpas
+1191,20564,Yutanduchi de Guerrero
+1192,20214,San Juan Quiotepec
+1193,20102,San AndrÃ©s Zautla
+1194,20492,Santiago Tilantongo
+1195,20191,San Juan ChicomezÃºchil
+1196,20115,San Bartolo Coyotepec
+1197,20267,San Miguel del RÃ­o
+1198,20023,CuilÃ¡pam de Guerrero
+1199,20077,Reyes Etla
+1200,20177,San Juan Bautista CuicatlÃ¡n
+1201,20280,Villa Talea de Castro
+1202,20028,Heroica Ciudad de Ejutla de Crespo
+1203,20087,San AgustÃ­n Yatareni
+1204,20426,Santa MarÃ­a PeÃ±oles
+1205,20094,San AndrÃ©s NuxiÃ±o
+1206,20092,San AndrÃ©s Ixtlahuaca
+1207,20149,San Francisco Sola
+1208,20145,San Francisco LachigolÃ³
+1209,20157,San Jacinto Amilpas
+1210,20161,San JerÃ³nimo Sosola
+1211,20001,Abejones
+1212,20194,San Juan del RÃ­o
+1213,20506,Santo Domingo Albarradas
+1214,20226,San Lorenzo Albarradas
+1215,20550,San JerÃ³nimo Tlacochahuaya
+1216,20048,Magdalena Mixtepec
+1217,20069,La Pe
+1218,20449,Santa MarÃ­a ZoquitlÃ¡n
+1219,20511,Santo Domingo NuxaÃ¡
+1220,20138,San Francisco Cajonos
+1221,20452,Santiago ApÃ³stol
+1222,20553,Tlalixtac de Cabrera
+1223,20315,San Pedro MÃ¡rtir
+1224,20369,Santa Catarina QuianÃ©
+1225,20437,Santa MarÃ­a Tlahuitoltepec
+1226,20457,Santiago CamotlÃ¡n
+1227,20104,San Antonino el Alto
+1228,20219,San Juan Teitipac
+1229,20119,San BartolomÃ© YucuaÃ±e
+1230,20156,San Ildefonso Villa Alta
+1231,20103,San Antonino Castillo Velasco
+1232,20083,San AgustÃ­n de las Juntas
+1233,20178,San Juan Bautista Guelache
+1234,20303,San Pedro Cajonos
+1235,20535,San Vicente LachixÃ­o
+1236,20551,Tlacolula de Matamoros
+1237,20561,Yaxe
+1238,20162,San JerÃ³nimo Taviche
+1239,20388,Santa InÃ©s del Monte
+1240,20491,Santiago TextitlÃ¡n
+1241,20123,San Bernardo Mixtepec
+1242,20337,San Pedro y San Pablo Ayutla
+1243,20504,Nuevo ZoquiÃ¡pam
+1244,20068,OcotlÃ¡n de Morelos
+1245,20570,ZimatlÃ¡n de Ãlvarez
+1246,20238,San MartÃ­n de los Cansecos
+1247,20343,San SebastiÃ¡n Abasolo
+1248,20108,San Antonio Huitepec
+1249,20356,Santa Ana del Valle
+1250,20227,San Lorenzo Cacaotepec
+1251,20281,San Miguel TecomatlÃ¡n
+1252,20112,San Baltazar ChichicÃ¡pam
+1253,20135,San Felipe TejalÃ¡pam
+1254,20329,San Pedro Teozacoalco
+1255,20223,San Juan Yatzona
+1256,20292,San Pablo Cuatro Venados
+1257,20335,San Pedro Yaneri
+1258,20563,Yogana
+1259,20393,Santa LucÃ­a OcotlÃ¡n
+1260,20409,Santa MarÃ­a del Tule
+1261,20358,Santa Ana Tlapacoyan
+1262,20569,Santa InÃ©s de Zaragoza
+1263,20054,Magdalena ZahuatlÃ¡n
+1264,20336,San Pedro YÃ³lox
+1265,20411,Santa MarÃ­a GuelacÃ©
+1266,20246,San Mateo Cajonos
+1267,20496,Santiago XiacuÃ­
+1268,20298,San Pablo Villa de Mitla
+1269,20097,San AndrÃ©s Solaga
+1270,20091,San AndrÃ©s HuayÃ¡pam
+1271,20271,San Miguel Mixtepec
+1272,20060,MixistlÃ¡n de la Reforma
+1273,20067,Oaxaca de JuÃ¡rez
+1274,20349,San SebastiÃ¡n Teitipac
+1275,20197,San Juan GuelavÃ­a
+1276,20419,Santa MarÃ­a Jaltianguis
+1277,20333,San Pedro TotolÃ¡pam
+1278,20295,San Pablo Huixtepec
+1279,20131,San Dionisio Ocotepec
+1280,20530,Santo TomÃ¡s Jalieza
+1281,20045,Magdalena Apasco
+1282,20351,San SimÃ³n Almolongas
+1283,20175,San Juan Bautista Atatlahuca
+1284,20247,CapulÃ¡lpam de MÃ©ndez
+1285,20078,Rojas de CuauhtÃ©moc
+1286,20243,San MartÃ­n Tilcajete
+1287,20390,Santa LucÃ­a del Camino
+1288,20120,San BartolomÃ© Zoogocho
+1289,20118,San BartolomÃ© Quialana
+1290,20284,San Miguel TilquiÃ¡pam
+1291,20038,Villa Hidalgo
+1292,20430,Santa MarÃ­a Tataltepec
+1293,20368,Santa Catarina Minas
+1294,20233,San Lucas QuiavinÃ­
+1295,20399,Santa MarÃ­a Atzompa
+1296,20046,Magdalena Jaltepec
+1297,20063,Nazareno Etla
+1298,20080,San AgustÃ­n Amatengo
+1299,20035,Guelatao de JuÃ¡rez
+1300,20201,San Juan Juquila Vijanos
+1301,20522,Santo Domingo XagacÃ­a
+1302,20541,Tanetze de Zaragoza
+1303,20301,San Pedro ApÃ³stol
+1304,20365,Santa Catarina Lachatao
+1305,20389,Santa InÃ©s Yatzeche
+1306,20566,San Mateo Yucutindoo
+1307,20235,San Luis AmatlÃ¡n
+1308,20554,Totontepec Villa de Morelos
+1309,20255,San Mateo Sindihui
+1310,20072,San JosÃ© del Progreso
+1311,20203,San Juan Lachigalla
+1312,20222,San Juan YaeÃ©
+1313,20277,Villa Sola de Vega
+1314,20042,IxtlÃ¡n de JuÃ¡rez
+1315,20338,Villa de Etla
+1316,20359,Santa Ana Yareni
+1317,20514,Santo Domingo Roayaga
+1318,20546,TeotitlÃ¡n del Valle
+1319,20015,Coatecas Altas
+1320,20006,AsunciÃ³n NochixtlÃ¡n
+1321,20380,Santa Cruz Papalutla
+1322,20360,Santa Ana Zegache
+1323,20432,Santa MarÃ­a Temaxcalapa
+1324,20062,Natividad
+1325,20443,Santa MarÃ­a YavesÃ­a
+1326,20179,San Juan Bautista JayacatlÃ¡n
+1327,20542,Taniche
+1328,20007,AsunciÃ³n OcotlÃ¡n
+1329,20100,San AndrÃ©s YaÃ¡
+1330,20173,San Juan Atepec
+1331,20150,San Francisco Telixtlahuaca
+1332,20268,San Miguel Ejutla
+1333,20017,La CompaÃ±Ã­a
+1334,20114,San Baltazar Yatzachi el Bajo
+1335,20274,San Miguel Piedras
+1336,20539,Soledad Etla
+1337,20475,Santiago MatatlÃ¡n
+1338,20031,TamazulÃ¡pam del EspÃ­ritu Santo
+1339,20310,San Pedro Ixtlahuaca
+1340,20195,San Juan Diuxi
+1341,20132,San Dionisio OcotlÃ¡n
+1342,20260,San Miguel AloÃ¡pam
+1343,20398,Ayoquezco de Aldama
+1344,20420,Santa MarÃ­a LachixÃ­o
+1345,20137,San Francisco CahuacuÃ¡
+1346,20217,San Juan Tamazola
+1347,20487,Santiago Tenango
+1348,20155,San Ildefonso Sola
+1349,20193,San Juan del Estado
+1350,20101,San AndrÃ©s Zabache
+1351,20350,San SebastiÃ¡n Tutla
+1352,20565,Villa de Zaachila
+1353,20033,Guadalupe Etla
+1354,20296,San Pablo Macuiltianguis
+1355,20531,Santo TomÃ¡s Mazaltepec
+1356,20503,Santiago Zoochila
+1357,20273,San Miguel Peras
+1358,20473,Santiago Laxopa
+1359,-----,Group 57
+1360,16014,Coahuayana
+1361,14054,El LimÃ³n
+1362,16019,Cotija
+1363,14057,La Manzanilla de la Paz
+1364,06009,TecomÃ¡n
+1365,14087,TecalitlÃ¡n
+1366,06007,Manzanillo
+1367,14106,Tuxcacuesco
+1368,06006,IxtlahuacÃ¡n
+1369,14100,TomatlÃ¡n
+1370,14022,CihuatlÃ¡n
+1371,14092,TeocuitatlÃ¡n de Corona
+1372,14027,CuautitlÃ¡n de GarcÃ­a BarragÃ¡n
+1373,14085,Tamazula de Gordiano
+1374,14017,Ayutla
+1375,06004,CoquimatlÃ¡n
+1376,06002,Colima
+1377,06005,CuauhtÃ©moc
+1378,14014,Atoyac
+1379,14011,Atengo
+1380,06008,MinatitlÃ¡n
+1381,14015,AutlÃ¡n de Navarro
+1382,14021,Casimiro Castillo
+1383,06001,ArmerÃ­a
+1384,14023,ZapotlÃ¡n el Grande
+1385,14065,Pihuamo
+1386,14121,Zapotiltic
+1387,16095,Tocumbo
+1388,14090,TenamaxtlÃ¡n
+1389,06010,Villa de Ãlvarez
+1390,06003,Comala
+1391,14103,Tonila
+1392,14112,Valle de JuÃ¡rez
+1393,14082,Sayula
+1394,14004,Amacueca
+1395,14107,Tuxcueca
+1396,14089,Techaluta de Montenegro
+1397,14102,Tonaya
+1398,14043,La Huerta
+1399,14012,Atenguillo
+1400,14088,TecolotlÃ¡n
+1401,14026,ConcepciÃ³n de Buenos Aires
+1402,14068,Villa PurificaciÃ³n
+1403,-----,Group 58
+1404,14052,JuchitlÃ¡n
+1405,14122,ZapotitlÃ¡n de Vadillo
+1406,14113,San Gabriel
+1407,14099,TolimÃ¡n
+1408,14086,Tapalpa
+1409,14037,El Grullo
+1410,14119,Zacoalco de Torres
+1411,14059,Mazamitla
+1412,14079,GÃ³mez FarÃ­as
+1413,14028,Cuautla
+1414,14010,Atemajac de Brizuela
+1415,14110,UniÃ³n de Tula
+1416,16051,Marcos Castellanos
+1417,14108,Tuxpan
+1418,14032,ChiquilistlÃ¡n
+1419,-----,Group 59
+1420,17027,Totolapan
+1421,13038,Mineral del Chico
+1422,15079,Soyaniquilpan de JuÃ¡rez
+1423,21165,Tepemaxalco
+1424,15086,Temascaltepec
+1425,15125,Tonanitla
+1426,21181,Tlaltenango
+1427,17019,Tepalcingo
+1428,15038,Isidro Fabela
+1429,17023,Tlalnepantla
+1430,13045,OmitlÃ¡n de JuÃ¡rez
+1431,29003,Atlangatepec
+1432,15059,Nextlalpan
+1433,13024,Huasca de Ocampo
+1434,15049,Joquicingo
+1435,21160,Teotlalco
+1436,29011,MuÃ±oz de Domingo Arenas
+1437,-----,Group 60
+1438,21008,Ahuazotepec
+1439,21039,Cuautempan
+1440,21215,Zongozotla
+1441,21083,IxtacamaxtitlÃ¡n
+1442,15094,Tepetlixpa
+1443,29029,Tepeyanco
+1444,21167,Tepetzintla
+1445,21016,Aquixtla
+1446,-----,Group 61
+1447,21208,ZacatlÃ¡n
+1448,15007,Amanalco
+1449,21168,Tepexco
+1450,09012,Tlalpan
+1451,13002,AcaxochitlÃ¡n
+1452,15028,Chiautla
+1453,21100,Naupan
+1454,30202,ZontecomatlÃ¡n de LÃ³pez y Fuentes
+1455,15018,Calimaya
+1456,15046,Jilotzingo
+1457,15121,CuautitlÃ¡n Izcalli
+1458,13036,San AgustÃ­n MetzquititlÃ¡n
+1459,29045,Benito JuÃ¡rez
+1460,15022,CocotitlÃ¡n
+1461,13068,Tianguistengo
+1462,13079,XochicoatlÃ¡n
+1463,15063,Ocuilan
+1464,15056,Morelos
+1465,15114,Villa Victoria
+1466,13004,Agua Blanca de Iturbide
+1467,13057,Singuilucan
+1468,13043,NicolÃ¡s Flores
+1469,13035,Metepec
+1470,13056,Santiago Tulantepec de Lugo Guerrero
+1471,30076,IlamatlÃ¡n
+1472,13053,San Bartolo Tutotepec
+1473,13060,Tenango de Doria
+1474,15073,San Antonio la Isla
+1475,15111,Villa de Allende
+1476,21049,Chiconcuautla
+1477,21109,PahuatlÃ¡n
+1478,30180,Tlachichilco
+1479,13039,Mineral del Monte
+1480,13071,Tlahuiltepa
+1481,21057,Honey
+1482,15093,Tepetlaoxtoc
+1483,13075,Tolcayuca
+1484,15072,RayÃ³n
+1485,30170,Texcatepec
+1486,15001,Acambay de RuÃ­z CastaÃ±eda
+1487,15030,Chiconcuac
+1488,17026,Tlayacapan
+1489,13020,EloxochitlÃ¡n
+1490,13037,MetztitlÃ¡n
+1491,13001,AcatlÃ¡n
+1492,30198,Zacualpan
+1493,-----,Group 62
+1494,21207,Zacapoaxtla
+1495,29005,Apizaco
+1496,13074,Tlaxcoapan
+1497,13054,San Salvador
+1498,15090,Tenango del Valle
+1499,15013,AtizapÃ¡n de Zaragoza
+1500,09008,La Magdalena Contreras
+1501,13048,Pachuca de Soto
+1502,17006,Cuautla
+1503,30027,Benito JuÃ¡rez
+1504,15113,Villa Guerrero
+1505,17032,Zacualpan de Amilpas
+1506,17028,Xochitepec
+1507,15025,Chalco
+1508,15031,ChimalhuacÃ¡n
+1509,09009,Milpa Alta
+1510,21216,Zoquiapan
+1511,09013,Xochimilco
+1512,15122,Valle de Chalco Solidaridad
+1513,17007,Cuernavaca
+1514,21132,San MartÃ­n Texmelucan
+1515,13030,Ixmiquilpan
+1516,17013,Jonacatepec de Leandro Valle
+1517,13077,Tulancingo de Bravo
+1518,17010,Jantetelco
+1519,15099,Texcoco
+1520,15058,NezahualcÃ³yotl
+1521,09017,Venustiano Carranza
+1522,15081,TecÃ¡mac
+1523,15089,Tenango del Aire
+1524,13016,Cuautepec de Hinojosa
+1525,30072,Huayacocotla
+1526,09003,CoyoacÃ¡n
+1527,15040,Ixtapan de la Sal
+1528,15108,Tultepec
+1529,15039,Ixtapaluca
+1530,17008,Emiliano Zapata
+1531,13051,Mineral de la Reforma
+1532,13007,Almoloya
+1533,21053,Chignahuapan
+1534,15060,NicolÃ¡s Romero
+1535,13078,Xochiatipan
+1536,15097,TexcaltitlÃ¡n
+1537,15021,Coatepec Harinas
+1538,15057,Naucalpan de JuÃ¡rez
+1539,17033,Temoac
+1540,30103,MecatlÃ¡n
+1541,17011,Jiutepec
+1542,15115,XonacatlÃ¡n
+1543,15052,Malinalco
+1544,13009,El Arenal
+1545,21030,Coatepec
+1546,21123,San Felipe TepatlÃ¡n
+1547,15119,ZumpahuacÃ¡n
+1548,17030,Yecapixtla
+1549,15042,Ixtlahuaca
+1550,15118,Zinacantepec
+1551,17029,Yautepec
+1552,09011,TlÃ¡huac
+1553,17031,Zacatepec
+1554,13081,ZacualtipÃ¡n de Ãngeles
+1555,13015,Cardonal
+1556,15091,Teoloyucan
+1557,17002,Atlatlahucan
+1558,15029,Chicoloapan
+1559,15107,Tonatico
+1560,21051,Chietla
+1561,09010,Ãlvaro ObregÃ³n
+1562,17018,Temixco
+1563,29033,Tlaxcala
+1564,17016,Ocuituco
+1565,21005,Acteopan
+1566,13012,Atotonilco el Grande
+1567,21080,Atlequizayan
+1568,15092,TeotihuacÃ¡n
+1569,15088,Tenancingo
+1570,13055,Santiago de Anaya
+1571,13003,Actopan
+1572,15067,Otzolotepec
+1573,21028,Camocuautla
+1574,13008,Apan
+1575,15050,Juchitepec
+1576,21086,Jalpan
+1577,15005,Almoloya de JuÃ¡rez
+1578,17015,MiacatlÃ¡n
+1579,13070,Tlahuelilpan
+1580,21071,Huauchinango
+1581,17003,Axochiapan
+1582,15020,Coacalco de BerriozÃ¡bal
+1583,21101,Nauzontla
+1584,15120,Zumpango
+1585,15054,Metepec
+1586,17024,TlaltizapÃ¡n de Zapata
+1587,13022,Epazoyucan
+1588,17005,CoatlÃ¡n del RÃ­o
+1589,17004,Ayala
+1590,21172,Tetela de Ocampo
+1591,-----,Group 63
+1592,15112,Villa del CarbÃ³n
+1593,15087,Temoaya
+1594,13069,Tizayuca
+1595,15037,Huixquilucan
+1596,15061,Nopaltepec
+1597,13041,Mixquiahuala de JuÃ¡rez
+1598,15101,Tianguistenco
+1599,15012,AtizapÃ¡n
+1600,15036,Hueypoxtla
+1601,13052,San AgustÃ­n Tlaxiaca
+1602,15043,Xalatlaco
+1603,15016,Axapusco
+1604,15051,Lerma
+1605,13021,Emiliano Zapata
+1606,15084,Temascalapa
+1607,13063,Tepeji del RÃ­o de Ocampo
+1608,15019,Capulhuac
+1609,13082,ZapotlÃ¡n de JuÃ¡rez
+1610,13010,Atitalaquia
+1611,15023,Coyotepec
+1612,15006,Almoloya del RÃ­o
+1613,13083,Zempoala
+1614,15076,San Mateo Atenco
+1615,15055,Mexicaltzingo
+1616,15010,Apaxco
+1617,15062,Ocoyoacac
+1618,09004,Cuajimalpa de Morelos
+1619,15095,TepotzotlÃ¡n
+1620,13072,Tlanalapa
+1621,15065,Otumba
+1622,15070,La Paz
+1623,13005,Ajacuba
+1624,13065,Tetepango
+1625,15024,CuautitlÃ¡n
+1626,13013,Atotonilco de Tula
+1627,15100,Tezoyuca
+1628,15044,Jaltenco
+1629,15098,Texcalyacac
+1630,15002,Acolman
+1631,15035,Huehuetoca
+1632,13023,Francisco I. Madero
+1633,15053,Melchor Ocampo
+1634,15011,Atenco
+1635,13061,Tepeapulco
+1636,15047,Jiquipilco
+1637,15083,Temamatla
+1638,15069,Papalotla
+1639,15096,Tequixquiac
+1640,15027,Chapultepec
+1641,17009,Huitzilac
+1642,13066,Villa de Tezontepec
+1643,17020,TepoztlÃ¡n
+1644,15075,San MartÃ­n de las PirÃ¡mides
+1645,-----,Group 64
+1646,21176,Tilapa
+1647,29037,ZiltlaltÃ©pec de Trinidad SÃ¡nchez Santos
+1648,21211,Zaragoza
+1649,21007,AhuatlÃ¡n
+1650,21212,Zautla
+1651,21105,Ocotepec
+1652,21148,Santa Isabel Cholula
+1653,21126,San JerÃ³nimo Tecuanipan
+1654,21070,Huatlatlauca
+1655,21119,San AndrÃ©s Cholula
+1656,21021,Atzala
+1657,21150,HuehuetlÃ¡n el Grande
+1658,21121,San Diego la Mesa Tochimiltzingo
+1659,21097,Mixtla
+1660,21186,Tlatlauquitepec
+1661,21201,Xochiltepec
+1662,21159,TeopantlÃ¡n
+1663,-----,Group 65
+1664,21164,Tepeaca
+1665,29010,Chiautempan
+1666,21140,San Pedro Cholula
+1667,29013,Huamantla
+1668,21019,Atlixco
+1669,21085,IzÃºcar de Matamoros
+1670,-----,Group 66
+1671,17021,Tetecala
+1672,12049,Pilcaya
+1673,17025,Tlaquiltenango
+1674,17014,Mazatepec
+1675,17001,Amacuzac
+1676,17017,Puente de Ixtla
+1677,17012,Jojutla
+1678,-----,Group 67
+1679,13076,Tula de Allende
+1680,15048,JocotitlÃ¡n
+1681,15064,El Oro
+1682,13044,Nopala de VillagrÃ¡n
+1683,15124,San JosÃ© del RincÃ³n
+1684,13019,Chilcuautla
+1685,15074,San Felipe del Progreso
+1686,13064,TepetitlÃ¡n
+1687,15014,Atlacomulco
+1688,15003,Aculco
+1689,13050,Progreso de ObregÃ³n
+1690,15045,Jilotepec
+1691,13017,Chapantongo
+1692,13067,Tezontepec de Aldama
+1693,15026,Chapa de Mota
+1694,15102,Timilpan
+1695,13006,Alfajayucan
+1696,13058,Tasquillo
+1697,-----,Group 68
+1698,29041,Papalotla de XicohtÃ©ncatl
+1699,29024,Panotla
+1700,29044,Zacatelco
+1701,21180,Tlahuapan
+1702,21026,Calpan
+1703,29004,Atltzayanca
+1704,29014,Hueyotlipan
+1705,29055,San Lucas Tecopilco
+1706,21131,San Juan Atzompa
+1707,29048,La Magdalena Tlaltelulco
+1708,21060,Domingo Arenas
+1709,21117,Rafael Lara Grajales
+1710,29057,Santa Apolonia Teacalco
+1711,21153,Tecali de Herrera
+1712,29038,Tzompantepec
+1713,29030,Terrenate
+1714,29028,Teolocholco
+1715,21102,Nealtican
+1716,15034,Ecatzingo
+1717,21015,Amozoc
+1718,21074,Huejotzingo
+1719,29051,San JerÃ³nimo Zacualpan
+1720,21163,Tepatlaxco de Hidalgo
+1721,29046,Emiliano Zapata
+1722,21138,San NicolÃ¡s de los Ranchos
+1723,29032,Tetlatlahuca
+1724,21034,Coronango
+1725,21185,TlapanalÃ¡
+1726,21106,Ocoyucan
+1727,29019,Tepetitla de LardizÃ¡bal
+1728,29025,San Pablo del Monte
+1729,29059,Santa Cruz Quilehtla
+1730,29026,Santa Cruz Tlaxcala
+1731,29016,Ixtenco
+1732,29047,LÃ¡zaro CÃ¡rdenas
+1733,21136,San Miguel Xoxtla
+1734,29031,Tetla de la Solidaridad
+1735,29001,Amaxac de Guerrero
+1736,21175,Tianguismanalco
+1737,29042,Xicohtzinco
+1738,29012,EspaÃ±ita
+1739,21040,CuautinchÃ¡n
+1740,29052,San JosÃ© Teacalco
+1741,21122,San Felipe Teotlalcingo
+1742,15015,Atlautla
+1743,29054,San Lorenzo Axocomanitla
+1744,29002,ApetatitlÃ¡n de Antonio Carvajal
+1745,29060,Santa Isabel Xiloxoxtla
+1746,17022,Tetela del VolcÃ¡n
+1747,29053,San Juan Huactzinco
+1748,29058,Santa Catarina Ayometla
+1749,21062,EpatlÃ¡n
+1750,21022,AtzitzihuacÃ¡n
+1751,29015,Ixtacuixtla de Mariano Matamoros
+1752,15009,Amecameca
+1753,29034,Tlaxco
+1754,29023,NatÃ­vitas
+1755,21090,Juan C. Bonilla
+1756,21125,San Gregorio Atzompa
+1757,15068,Ozumba
+1758,29039,Xaloztoc
+1759,21041,Cuautlancingo
+1760,29027,Tenancingo
+1761,29022,Acuamanala de Miguel Hidalgo
+1762,29035,TocatlÃ¡n
+1763,29020,SanctÃ³rum de LÃ¡zaro CÃ¡rdenas
+1764,15017,Ayapango
+1765,15103,Tlalmanalco
+1766,21166,Tepeojuma
+1767,21001,Acajete
+1768,21133,San MartÃ­n Totoltepec
+1769,21069,Huaquechula
+1770,29009,Cuaxomulco
+1771,29008,Cuapiaxtla
+1772,21134,San MatÃ­as Tlalancaleca
+1773,29017,Mazatecochco de JosÃ© MarÃ­a Morelos
+1774,29040,Xaltocan
+1775,21048,Chiautzingo
+1776,21188,Tochimilco
+1777,29036,Totolac
+1778,29018,Contla de Juan Cuamatzi
+1779,29006,Calpulalpan
+1780,29021,Nanacamilpa de Mariano Arista
+1781,29043,Yauhquemehcan
+1782,21143,San Salvador el Verde
+1783,29056,Santa Ana Nopalucan
+1784,21104,Nopalucan
+1785,29050,San Francisco Tetlanohcan
+1786,29049,San DamiÃ¡n TexÃ³loc
+1787,-----,Group 69
+1788,13026,Huazalingo
+1789,13033,JuÃ¡rez Hidalgo
+1790,-----,Group 70
+1791,13027,Huehuetla
+1792,21014,AmixtlÃ¡n
+1793,30037,CoahuitlÃ¡n
+1794,21088,Jonotla
+1795,21089,Jopala
+1796,21029,Caxhuacan
+1797,30050,Coxquihui
+1798,21192,Tuzamapan de Galeana
+1799,21162,Tepango de RodrÃ­guez
+1800,21204,YaonÃ¡huac
+1801,21078,Huitzilan de SerdÃ¡n
+1802,30064,ChumatlÃ¡n
+1803,21187,Tlaxco
+1804,30067,Filomeno Mata
+1805,21210,ZapotitlÃ¡n de MÃ©ndez
+1806,-----,Group 71
+1807,07040,Huixtla
+1808,07010,Bejucal de Ocampo
+1809,07055,Metapa
+1810,07037,HuehuetÃ¡n
+1811,07035,Frontera Hidalgo
+1812,07015,CacahoatÃ¡n
+1813,07071,Villa ComaltitlÃ¡n
+1814,07054,MazatÃ¡n
+1815,07105,UniÃ³n JuÃ¡rez
+1816,07051,Mapastepec
+1817,07083,Socoltenango
+1818,07120,CapitÃ¡n Luis Ãngel Vidal
+1819,07036,La Grandeza
+1820,07087,Suchiate
+1821,07102,Tuxtla Chico
+1822,07080,Siltepec
+1823,07089,Tapachula
+1824,07003,Acapetahua
+1825,-----,Group 72
+1826,24026,San Antonio
+1827,30154,Tantima
+1828,-----,Group 73
+1829,28013,GÃ¼Ã©mez
+1830,28006,Bustamante
+1831,28030,Padilla
+1832,28010,Cruillas
+1833,28017,Jaumave
+1834,19036,Mier y Noriega
+1835,19033,Linares
+1836,28016,Hidalgo
+1837,19014,Doctor Arroyo
+1838,28034,San Carlos
+1839,19024,General Zaragoza
+1840,28018,JimÃ©nez
+1841,28043,XicotÃ©ncatl
+1842,28001,Abasolo
+1843,28042,VillagrÃ¡n
+1844,28026,Miquihuana
+1845,19007,Aramberri
+1846,28041,Victoria
+1847,-----,Group 74
+1848,19046,San NicolÃ¡s de los Garza
+1849,19006,Apodaca
+1850,-----,Group 75
+1851,19048,Santa Catarina
+1852,19019,San Pedro Garza GarcÃ­a
+1853,-----,Group 76
+1854,05031,San Buenaventura
+1855,05015,JuÃ¡rez
+1856,05018,Monclova
+1857,-----,Group 77
+1858,19004,Allende
+1859,19017,Galeana
+1860,19025,General Zuazua
+1861,05027,Ramos Arizpe
+1862,19008,Bustamante
+1863,32007,ConcepciÃ³n del Oro
+1864,19018,GarcÃ­a
+1865,05007,Cuatro CiÃ©negas
+1866,19031,JuÃ¡rez
+1867,19011,Cerralvo
+1868,19049,Santiago
+1869,19034,MarÃ­n
+1870,19010,El Carmen
+1871,05006,CastaÃ±os
+1872,19009,Cadereyta JimÃ©nez
+1873,05024,Parras
+1874,19012,CiÃ©nega de Flores
+1875,05010,Frontera
+1876,05021,Nadadores
+1877,19038,Montemorelos
+1878,19047,Hidalgo
+1879,05029,Sacramento
+1880,05033,San Pedro
+1881,19041,PesquerÃ­a
+1882,05011,General Cepeda
+1883,19021,General Escobedo
+1884,19045,Salinas Victoria
+1885,19051,Villaldama
+1886,05004,Arteaga
+1887,-----,Group 78
+1888,28027,Nuevo Laredo
+1889,19032,Lampazos de Naranjo
+1890,05005,Candela
+1891,19044,Sabinas Hidalgo
+1892,05012,Guerrero
+1893,28024,Mier
+1894,05013,Hidalgo
+1895,19005,AnÃ¡huac
+1896,28014,Guerrero
+1897,-----,Group 79
+1898,11031,San Francisco del RincÃ³n
+1899,14008,Arandas
+1900,11008,Manuel Doblado
+1901,14048,JesÃºs MarÃ­a
+1902,11037,Silao de la Victoria
+1903,14118,Yahualica de GonzÃ¡lez Gallo
+1904,32045,TepechitlÃ¡n
+1905,32018,Huanusco
+1906,14053,Lagos de Moreno
+1907,11025,PurÃ­sima del RincÃ³n
+1908,11026,Romita
+1909,14072,San Diego de AlejandrÃ­a
+1910,14093,TepatitlÃ¡n de Morelos
+1911,14029,CuquÃ­o
+1912,14001,Acatic
+1913,32047,TeÃºl de GonzÃ¡lez Ortega
+1914,14125,San Ignacio Cerro Gordo
+1915,14073,San Juan de los Lagos
+1916,14117,CaÃ±adas de ObregÃ³n
+1917,-----,Group 80
+1918,14115,Villa Guerrero
+1919,32037,PÃ¡nuco
+1920,24025,Salinas
+1921,32006,CaÃ±itas de Felipe Pescador
+1922,10033,SÃºchil
+1923,32050,Vetagrande
+1924,32044,Tabasco
+1925,32057,Trancoso
+1926,10014,Mezquital
+1927,14061,Mezquitic
+1928,32013,General Enrique Estrada
+1929,32040,Sain Alto
+1930,32030,Momax
+1931,32056,Zacatecas
+1932,32031,Monte Escobedo
+1933,10022,Poanas
+1934,10016,Nombre de Dios
+1935,01010,El Llano
+1936,32017,Guadalupe
+1937,32010,Fresnillo
+1938,24001,Ahualulco
+1939,01007,RincÃ³n de Romos
+1940,32032,Morelos
+1941,32053,Villa GonzÃ¡lez Ortega
+1942,24049,Villa de Ramos
+1943,24022,Moctezuma
+1944,32020,Jerez
+1945,32026,Mazapil
+1946,24033,Santo Domingo
+1947,32042,Sombrerete
+1948,32051,Villa de Cos
+1949,32008,CuauhtÃ©moc
+1950,32022,Juan Aldama
+1951,32009,Chalchihuites
+1952,32049,ValparaÃ­so
+1953,32029,Miguel Auza
+1954,32052,Villa GarcÃ­a
+1955,14042,Huejuquilla el Alto
+1956,10027,San Juan de Guadalupe
+1957,10038,Vicente Guerrero
+1958,32055,Villanueva
+1959,32014,General Francisco R. MurguÃ­a
+1960,32005,Calera
+1961,32036,Ojocaliente
+1962,01004,CosÃ­o
+1963,01003,Calvillo
+1964,32048,Tlaltenango de SÃ¡nchez RomÃ¡n
+1965,32039,RÃ­o Grande
+1966,-----,Group 81
+1967,32033,Moyahua de Estrada
+1968,14078,San Miguel el Alto
+1969,14111,Valle de Guadalupe
+1970,32038,Pinos
+1971,14091,Teocaltiche
+1972,32016,General PÃ¡nfilo Natera
+1973,01006,PabellÃ³n de Arteaga
+1974,32001,Apozol
+1975,14064,Ojuelos de Jalisco
+1976,01009,TepezalÃ¡
+1977,01011,San Francisco de los Romo
+1978,14035,EncarnaciÃ³n de DÃ­az
+1979,14074,San JuliÃ¡n
+1980,32003,Atolinga
+1981,14046,JalostotitlÃ¡n
+1982,32024,Loreto
+1983,32034,NochistlÃ¡n de MejÃ­a
+1984,14109,UniÃ³n de San Antonio
+1985,14116,Villa Hidalgo
+1986,14025,ColotlÃ¡n
+1987,01002,Asientos
+1988,14041,HuejÃºcar
+1989,01008,San JosÃ© de Gracia
+1990,32023,Juchipila
+1991,32019,Jalpa
+1992,32025,Luis Moya
+1993,01005,JesÃºs MarÃ­a
+1994,32046,Tepetongo
+1995,-----,Group 82
+1996,32054,Villa Hidalgo
+1997,24021,Mexquitic de Carmona
+1998,24046,Villa de Arriaga
+1999,11030,San Felipe
+2000,11022,Ocampo
+2001,-----,Group 83
+2002,26036,Magdalena
+2003,26019,Cananea
+2004,26006,Arizpe
+2005,26004,Altar
+2006,26011,Bacoachi
+2007,26016,BenjamÃ­n Hill
+2008,26058,Santa Ana
+2009,26007,Atil
+2010,26059,Santa Cruz
+2011,26065,Tubutama
+2012,26043,Nogales
+2013,26027,Fronteras
+2014,26039,Naco
+2015,26046,Oquitoa
+2016,26035,Imuris
+2017,26060,SÃ¡ric
+2018,-----,Group 84
+2019,04006,HopelchÃ©n
+2020,23002,Felipe Carrillo Puerto
+2021,23006,JosÃ© MarÃ­a Morelos
+2022,31058,Peto
+2023,31079,Tekax
+2024,23004,OthÃ³n P. Blanco
+2025,31098,Tzucacab
+2026,23010,Bacalar
+2027,04010,Calakmul
+2028,-----,Group 85
+2029,07009,Arriaga
+2030,07103,TuzantÃ¡n
+2031,07021,CopainalÃ¡
+2032,07062,OstuacÃ¡n
+2033,07020,La Concordia
+2034,07064,Oxchuc
+2035,07073,RayÃ³n
+2036,07079,San Fernando
+2037,07007,Amatenango del Valle
+2038,07096,Tila
+2039,07093,Tenejapa
+2040,07117,Montecristo de Guerrero
+2041,07113,Aldama
+2042,07094,Teopisca
+2043,07018,Coapilla
+2044,07028,Chiapilla
+2045,07025,Chapultenango
+2046,07108,Villaflores
+2047,27015,Tacotalpa
+2048,07111,ZinacantÃ¡n
+2049,07056,Mitontic
+2050,07104,Tzimol
+2051,07005,AmatÃ¡n
+2052,27016,Teapa
+2053,07076,Sabanilla
+2054,07081,Simojovel
+2055,07008,Angel Albino Corzo
+2056,07043,IxtacomitÃ¡n
+2057,07068,Pichucalco
+2058,07053,Mazapa de Madero
+2059,07038,HuixtÃ¡n
+2060,07013,Bochil
+2061,07097,TonalÃ¡
+2062,07098,Totolapa
+2063,07100,TumbalÃ¡
+2064,07092,TecpatÃ¡n
+2065,07034,Frontera Comalapa
+2066,07077,Salto de Agua
+2067,07119,Santiago el Pinar
+2068,07039,HuitiupÃ¡n
+2069,07075,Las Rosas
+2070,07091,Tapilula
+2071,07012,BerriozÃ¡bal
+2072,07044,Ixtapa
+2073,07070,El Porvenir
+2074,07047,Jitotol
+2075,07066,PantelhÃ³
+2076,07048,JuÃ¡rez
+2077,07082,SitalÃ¡
+2078,07112,San Juan Cancuc
+2079,07042,IxhuatÃ¡n
+2080,07106,Venustiano Carranza
+2081,07086,Suchiapa
+2082,07022,ChalchihuitÃ¡n
+2083,07031,ChilÃ³n
+2084,07011,Bella Vista
+2085,07109,YajalÃ³n
+2086,07069,Pijijiapan
+2087,07006,Amatenango de la Frontera
+2088,07014,El Bosque
+2089,07026,ChenalhÃ³
+2090,07059,Ocosingo
+2091,07060,Ocotepec
+2092,07041,La Independencia
+2093,07084,Solosuchiapa
+2094,07115,Maravilla Tenejapa
+2095,07107,Villa Corzo
+2096,07099,La Trinitaria
+2097,07027,Chiapa de Corzo
+2098,07061,Ocozocoautla de Espinosa
+2099,07046,Jiquipilas
+2100,07017,Cintalapa
+2101,07002,Acala
+2102,07072,Pueblo Nuevo SolistahuacÃ¡n
+2103,07019,ComitÃ¡n de DomÃ­nguez
+2104,07049,LarrÃ¡inzar
+2105,07024,Chanal
+2106,07001,Acacoyagua
+2107,07004,Altamirano
+2108,07110,San Lucas
+2109,07057,Motozintla
+2110,07029,ChicoasÃ©n
+2111,07032,Escuintla
+2112,07078,San CristÃ³bal de las Casas
+2113,07030,Chicomuselo
+2114,07023,Chamula
+2115,07052,Las Margaritas
+2116,07090,Tapalapa
+2117,-----,Group 86
+2118,12038,Zihuatanejo de Azueta
+2119,16008,Aquila
+2120,16026,Chinicuila
+2121,16052,LÃ¡zaro CÃ¡rdenas
+2122,16055,MÃºgica
+2123,16002,Aguililla
+2124,16029,Churumuco
+2125,12073,ZirÃ¡ndaro
+2126,16033,Gabriel Zamora
+2127,16010,Arteaga
+2128,16035,La Huacana
+2129,16012,Buenavista
+2130,12016,Coahuayutla de JosÃ© MarÃ­a Izazaga
+2131,16089,Tepalcatepec
+2132,16096,TumbiscatÃ­o
+2133,16006,ApatzingÃ¡n
+2134,16015,CoalcomÃ¡n de VÃ¡zquez Pallares
+2135,12068,La UniÃ³n de Isidoro Montes de Oca
+2136,16064,ParÃ¡cuaro
+2137,-----,Group 87
+2138,20079,Salina Cruz
+2139,20141,San Francisco del Mar
+2140,20472,Santiago Laollaga
+2141,20030,El Espinal
+2142,20143,San Francisco IxhuatÃ¡n
+2143,20308,San Pedro Huilotepec
+2144,20440,Santa MarÃ­a Totolapilla
+2145,20066,Santiago Niltepec
+2146,20421,Santa MarÃ­a Mixtequilla
+2147,20470,Santiago Lachiguiri
+2148,20014,Ciudad Ixtepec
+2149,20036,Guevea de Humboldt
+2150,20130,San Dionisio del Mar
+2151,20282,San Miguel Tenango
+2152,20064,Nejapa de Madero
+2153,20307,San Pedro Huamelula
+2154,20124,San Blas Atempa
+2155,20052,Magdalena TequisistlÃ¡n
+2156,20441,Santa MarÃ­a Xadani
+2157,20513,Santo Domingo Petapa
+2158,20505,Santo Domingo Ingenio
+2159,20043,Heroica Ciudad de JuchitÃ¡n de Zaragoza
+2160,20075,Reforma de Pineda
+2161,20122,San Bartolo Yautepec
+2162,20427,Santa MarÃ­a Petapa
+2163,20008,AsunciÃ³n Tlacolulita
+2164,20305,San Pedro Comitancillo
+2165,20410,Santa MarÃ­a Ecatepec
+2166,20508,Santo Domingo ChihuitÃ¡n
+2167,20053,Magdalena Tlacotepec
+2168,20248,San Mateo del Mar
+2169,20418,Santa MarÃ­a Jalapa del MarquÃ©s
+2170,20010,El Barrio de la Soledad
+2171,20412,Santa MarÃ­a Guienagati
+2172,20125,San Carlos Yautepec
+2173,20557,UniÃ³n Hidalgo
+2174,20357,Santa Ana Tavela
+2175,20204,San Juan Lajarcia
+2176,20515,Santo Domingo Tehuantepec
+2177,20453,Santiago Astata
+2178,-----,Group 88
+2179,24039,TampamolÃ³n Corona
+2180,28011,GÃ³mez FarÃ­as
+2181,28037,Soto la Marina
+2182,28003,Altamira
+2183,28028,Nuevo Morelos
+2184,30060,Chinampa de Gorostiza
+2185,30133,Pueblo Viejo
+2186,30152,Tampico Alto
+2187,30013,Naranjos AmatlÃ¡n
+2188,30150,TamalÃ­n
+2189,-----,Group 89
+2190,13080,Yahualica
+2191,13014,Calnali
+2192,30161,Tempoal
+2193,22002,Pinal de Amoles
+2194,13032,JaltocÃ¡n
+2195,13073,Tlanchinol
+2196,22010,Landa de Matamoros
+2197,24042,TanquiÃ¡n de Escobedo
+2198,22009,Jalpan de Serra
+2199,24018,HuehuetlÃ¡n
+2200,30055,Chalma
+2201,30121,Ozuluama de MascareÃ±as
+2202,24040,TamuÃ­n
+2203,24013,Ciudad Valles
+2204,30129,PlatÃ³n SÃ¡nchez
+2205,11045,XichÃº
+2206,13042,Molango de Escamilla
+2207,24057,Matlapa
+2208,13046,San Felipe OrizatlÃ¡n
+2209,24011,Ciudad FernÃ¡ndez
+2210,24029,San MartÃ­n Chalchicuautla
+2211,24010,Ciudad del MaÃ­z
+2212,28029,Ocampo
+2213,30056,Chiconamel
+2214,24016,Ebano
+2215,30035,CitlaltÃ©petl
+2216,22003,Arroyo Seco
+2217,13031,Jacala de Ledezma
+2218,28021,El Mante
+2219,22013,PeÃ±amiller
+2220,28039,Tula
+2221,24038,TampacÃ¡n
+2222,22015,San JoaquÃ­n
+2223,13034,Lolotla
+2224,24058,El Naranjo
+2225,24041,TanlajÃ¡s
+2226,13028,Huejutla de Reyes
+2227,24024,Rioverde
+2228,24027,San Ciro de Acosta
+2229,24031,Santa Catarina
+2230,24034,San Vicente Tancuayalab
+2231,24014,CoxcatlÃ¡n
+2232,28012,GonzÃ¡lez
+2233,30063,Chontla
+2234,24005,CÃ¡rdenas
+2235,13011,Atlapexco
+2236,24037,Tamazunchale
+2237,11043,Victoria
+2238,24036,Tamasopo
+2239,24053,Axtla de Terrazas
+2240,13025,Huautla
+2241,24054,Xilitla
+2242,28004,Antiguo Morelos
+2243,28002,Aldama
+2244,13018,ChapulhuacÃ¡n
+2245,28009,Ciudad Madero
+2246,13049,Pisaflores
+2247,11034,Santa Catarina
+2248,30155,Tantoyuca
+2249,13062,TepehuacÃ¡n de Guerrero
+2250,24003,AquismÃ³n
+2251,24023,RayÃ³n
+2252,28019,Llera
+2253,30205,El Higo
+2254,30123,PÃ¡nuco
+2255,30078,Ixcatepec
+2256,24012,Tancanhuitz
+2257,28031,Palmillas
+2258,-----,Group 90
+2259,24052,Villa JuÃ¡rez
+2260,24008,Cerritos
+2261,-----,Group 91
+2262,30189,Tuxpan
+2263,21043,Cuetzalan del Progreso
+2264,30051,Coyutla
+2265,30069,GutiÃ©rrez Zamora
+2266,21068,Hermenegildo Galeana
+2267,30083,IxhuatlÃ¡n de Madero
+2268,30131,Poza Rica de Hidalgo
+2269,21107,Olintla
+2270,30160,Ãlamo Temapache
+2271,30211,San Rafael
+2272,21025,Ayotoxco de Guerrero
+2273,21213,Zihuateutla
+2274,21202,XochitlÃ¡n de Vicente SuÃ¡rez
+2275,30033,Cazones de Herrera
+2276,21064,Francisco Z. Mena
+2277,21084,Ixtepec
+2278,21006,AhuacatlÃ¡n
+2279,30066,Espinal
+2280,21091,Juan Galindo
+2281,30203,Zozocolco de Hidalgo
+2282,30040,Coatzintla
+2283,30102,MartÃ­nez de la Torre
+2284,30158,Tecolutla
+2285,30183,Tlapacoyan
+2286,21194,Venustiano Carranza
+2287,21158,Tenampulco
+2288,21184,Tlapacoya
+2289,30157,Castillo de Teayo
+2290,21111,Pantepec
+2291,30124,Papantla
+2292,21075,Hueyapan
+2293,21076,Hueytamalco
+2294,21178,Tlacuilotepec
+2295,21002,Acateno
+2296,21072,Huehuetla
+2297,21197,Xicotepec
+2298,21183,Tlaola
+2299,30175,TihuatlÃ¡n
+2300,21077,Hueytlalpan
+2301,-----,Group 92
+2302,05028,Sabinas
+2303,05014,JimÃ©nez
+2304,05038,Zaragoza
+2305,05032,San Juan de Sabinas
+2306,05019,Morelos
+2307,05037,Villa UniÃ³n
+2308,05003,Allende
+2309,05022,Nava
+2310,05025,Piedras Negras
